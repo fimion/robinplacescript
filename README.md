@@ -1,4 +1,9 @@
 ## Robin Grow Place Script
 
-https://www.reddit.com/place?webview=true#x=281&y=395
+### [The Robin in question](https://www.reddit.com/place?webview=true#x=281&y=395)
+
+
+### Things needed:
+* [TamperMonkey](https://tampermonkey.net)
+* Magical script of magicalness
 
